@@ -1,3 +1,7 @@
+<div align="center">
+<a href="https://github.com/effjy/learning-c/"><img src="titles/learning-c-title.svg" height="52" alt="Learning C"></a>
+</div>
+
 # Learning to Code in C — A Complete Beginner's Guide
 
 Welcome! This document is a hands-on, from-scratch introduction to the **C programming language**. It assumes you have *never written a line of C* before. By the end you will understand what a program is, how to write one, how to turn it into something your computer can run, and you will have solved **5 exercises** that grow in difficulty.
